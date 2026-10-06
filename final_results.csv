@@ -1,0 +1,4 @@
+Category,Best Algorithm,Best Result
+Boosting,XGBoost,0.8839860723598683
+Classification,Random Forest / KNN,0.9
+Clustering,K-Means,0.5546571631111091
